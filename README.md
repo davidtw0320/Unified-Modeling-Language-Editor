@@ -1,6 +1,5 @@
 
 # **Unified Modeling Language (UML) editor** 
-### ( the final project of Object-Oriented Analysis and Design in NCU CSIE )
 
 ## Description
 
